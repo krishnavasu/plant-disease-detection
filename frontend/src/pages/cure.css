@@ -1,0 +1,21 @@
+details{
+    margin: 10px 100px 10px 100px;
+    background-color: #3f3f3f;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px #858585;
+    cursor : pointer;
+}
+details summary{
+    font-size:25px;
+    color: white;
+    font-family: monospace;
+    user-select: none;
+    cursor : pointer;
+}
+
+details p{
+    font-size: 20px;
+    color: #d3d3d3;
+
+}

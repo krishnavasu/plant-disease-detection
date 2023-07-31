@@ -1,0 +1,423 @@
+{
+    "Apple___Apple_scab": {
+        "about": "Apple scab is a fungal disease that affects apple and crabapple trees.It is caused by the fungus Venturia inaequalis, which overwinters on fallen leaves and fruit. In the spring, the fungus produces spores that are spread by wind and rain. These spores land on new leaves and fruit, where they germinate and grow into lesions. The lesions can be small and brown, or they can be large and corky. They can also cause the leaves to curl and fall off. In severe cases, apple scab can damage the fruit, making it unmarketable.",
+        "prevent": [
+            "Plant resistant varieties of apple trees.",
+            "Remove fallen leaves and fruit from the ground in the fall",
+            "Water the trees deeply and infrequently.",
+            "Prune the trees to improve air circulation.",
+            "Apply fungicides according to the label directions.",
+            "If apple scab does occur, you can treat it with fungicides. However, it is important to start treatment early, before the lesions have a chance to form."
+        ],
+        "extra": [
+            "Plant apple trees in full sun",
+            "Avoid planting apple trees near other trees that are susceptible to apple scab.",
+            "Mulch around the trees to help keep the soil moist and cool.",
+            "Fertilize the trees according to the label directions.",
+            "Monitor the trees for signs of apple scab and treat it promptly.",
+            "With proper care, you can help to prevent apple scab and keep your apple trees healthy."
+        ]
+    },
+    "Apple___Black_rot": {
+        "about": "Apple black rot is a fungal disease that affects apple trees. It is caused by the fungus Botryosphaeria obtusa, which overwinters in mummified fruit and cankers on the tree. In the spring, the fungus produces spores that are spread by wind and rain. These spores land on new leaves and fruit, where they germinate and grow into lesions. The lesions can be small and brown, or they can be large and corky. They can also cause the leaves to curl and fall off. In severe cases, apple black rot can damage the fruit, making it unmarketable.",
+        "prevent": [
+            "Plant resistant varieties of apple trees.",
+            "Remove fallen leaves and fruit from the ground in the fall",
+            "Water the trees deeply and infrequently.",
+            "Prune the trees to improve air circulation.",
+            "Apply fungicides according to the label directions.",
+            "If apple black rot does occur, you can treat it with fungicides. However, it is important to start treatment early, before the lesions have a chance to form."
+        ],
+        "additioinalInfo": [
+            "Symptoms: Apple black rot can affect leaves, fruit, and branches. On leaves, it causes small, brown spots that may eventually turn black. On fruit, it causes large, sunken areas that may be covered with black spores. On branches, it causes cankers that may girdle the branch and kill it.",
+            "Spread: Apple black rot is spread by wind-blown spores. It can also be spread by pruning tools that have been contaminated with the fungus.",
+            "Prevention: The best way to prevent apple black rot is to plant resistant varieties of apple trees. You can also help to prevent the spread of the disease by removing fallen leaves and fruit from the ground",
+            "watering the trees deeply and infrequently, and pruning the trees to improve air circulation.",
+            "Treatment: If apple black rot does occur, you can treat it with fungicides. However, it is important to start treatment early, before the lesions have a chance to form."
+        ],
+        "extra": [
+            "Plant apple trees in full sun",
+            "Avoid planting apple trees near other trees that are susceptible to apple scab.",
+            "Mulch around the trees to help keep the soil moist and cool.",
+            "Fertilize the trees according to the label directions.",
+            "Monitor the trees for signs of apple scab and treat it promptly.",
+            "With proper care, you can help to prevent apple black rot and keep your apple trees healthy."
+        ]
+    },
+    "Apple___Cedar_apple_rust": {
+        "about": "Cedar-apple rust is a fungal disease that affects apple and crabapple trees. It is caused by the fungus Gymnosporangium juniperi-virginianae, which requires two hosts to complete its life cycle: apple trees and eastern red cedar trees.The disease cycle begins in the fall, when the fungus produces spores on eastern red cedar trees. These spores are spread by the wind to apple trees, where they germinate and infect the leaves. The fungus then produces more spores, which are spread back to eastern red cedar trees.On apple trees, cedar-apple rust causes yellow or orange spots on the leaves. These spots can eventually turn brown and crack, and they may also cause the leaves to drop prematurely. In severe cases, the disease can also damage the fruit, making it unmarketable.On eastern red cedar trees, cedar-apple rust causes galls to form on the twigs. These galls are orange or yellow, and they may be up to 2 inches in diameter. The galls eventually burst, releasing spores that spread to apple trees.",
+        "prevent": [
+            "Plant apple trees in areas where there are no eastern red cedar trees.",
+            "Remove eastern red cedar trees from your property.",
+            "Prune eastern red cedar trees to remove any galls.",
+            "Apply fungicides to apple trees in the spring and fall."
+        ],
+        "additioinalInfo": [],
+        "extra": []
+    },
+    "Apple___healthy": {
+        "about": "Your Crop is healty",
+        "extra": []
+    },
+    "Blueberry___healthy": {
+        "about": "Your Crop is healty",
+        "extra": []
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "about": "Cherry powdery mildew is a fungal disease that affects cherry trees. It is caused by the fungus Podosphaera clandestina, which overwinters on twigs and leaves. In the spring, the fungus produces spores that are spread by wind and rain. These spores land on new leaves and fruit, where they germinate and grow into a white, powdery mildew.\nPowdery mildew can cause a number of problems for cherry trees, including:\n1.Reduced fruit production\n2.Deformed fruit\n3.Leaf drop\n4.Wilting\n5.Death of young trees",
+        "prevent": [
+            "Plant resistant varieties of cherry trees.",
+            "Remove fallen leaves and fruit from the ground in the fall.",
+            "Water the trees deeply and infrequently.",
+            "Prune the trees to improve air circulation.",
+            "Apply fungicides according to the label directions."
+        ],
+        "extra": [
+            "Plant cherry trees in full sun.",
+            "Avoid planting cherry trees near other trees that are susceptible to cherry powdery mildew.",
+            "Mulch around the trees to help keep the soil moist and cool.",
+            "Fertilize the trees according to the label directions.",
+            "Monitor the trees for signs of cherry powdery mildew and treat it promptly"
+        ]
+    },
+    "Cherry_(including_sour)___healthy": {
+        "about": "Your Crop is healty",
+        "extra": []
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "about": "Gray leaf spot, also known as Cercospora leaf spot, is a fungal disease that affects corn. It is caused by the fungus Cercospora zeae-maydis, which overwinters in corn residue. In the spring, the fungus produces spores that are spread by wind and rain. These spores land on new leaves and fruit, where they germinate and grow into lesions. The lesions can be small and brown, or they can be large and corky. They can also cause the leaves to curl and fall off. In severe cases, gray leaf spot can damage the fruit, making it unmarketable.",
+        "prevent": [
+            "1. Plant resistant varieties of corn.",
+            "2.Remove fallen leaves and fruit from the ground in the fall.",
+            "3.Water the corn deeply and infrequently.",
+            "4.Prune the corn to improve air circulation.",
+            "5.Apply fungicides according to the label directions."
+        ],
+        "extra": [
+            "1.Plant corn in full sun.",
+            "2.Avoid planting corn near other crops that are susceptible to gray leaf spot.",
+            "3.Mulch around the corn to help keep the soil moist and cool.",
+            "4.Fertilize the corn according to the label directions.",
+            "5.Monitor the corn for signs of gray leaf spot and treat it promptly."
+        ]
+    },
+    "Corn_(maize)___Common_rust_": {
+        "about": "Common rust is a fungal disease that affects corn. It is caused by the fungus Puccinia sorghi, which overwinters in the southern United States and Mexico. Urediniospores are blown north to the Midwestern Corn Belt in the summer and infection occurs in June or July.\nCommon rust produces rust-colored to dark brown, elongated pustules on both leaf surfaces. The pustules contain rust spores (urediniospores) that are cinnamon brown in color.\nCommon rust is most problematic during prolonged periods of cool, wet weather. It is seldom a concern in hybrid corn.\nThe best management practice is to use resistant corn hybrids.",
+        "prevent": [
+            "If common rust does occur, you can treat it with fungicides. However, it is important to start treatment early, before the lesions have a chance to form."
+        ],
+        "extra": []
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "about": "Northern corn leaf blight (NCLB) is a foliar disease of corn (maize) caused by the fungus Exserohilum turcicum, the anamorph of the ascomycete Setosphaeria turcica. With its characteristic cigar-shaped lesions, this disease can cause significant yield loss in susceptible corn hybrids.\nSymptoms of NCLB typically appear first on the lower leaves of corn plants. Lesions are long, narrow, and tan in color, with dark brown margins. They may also have a sooty appearance due to the presence of fungal spores. As the disease progresses, lesions can coalesce to form large areas of dead tissue. In severe cases, NCLB can kill entire leaves or even entire plants.\nNCLB is most common in areas with cool, wet weather during the growing season. The fungus can survive in corn residue and other plant debris, so it is important to remove this material from fields before planting corn. NCLB can also be spread by wind-blown spores.",
+        "prevent": [
+            "1.Planting resistant corn hybrids",
+            "2.Removing corn residue from fields before planting",
+            "3.Applying fungicides",
+            "4.Tillage practices tha elp to reduce humidity",
+            "5.Crop rotation"
+        ],
+        "extra": []
+    },
+    "Corn_(maize)___healthy": {
+        "about": "Your Crop is healty",
+        "prevent": [],
+        "extra": []
+    },
+    "Grape___Black_rot": {
+        "about": "Black rot is a bacterial disease that affects grapes. It is caused by the bacterium Xanthomonas campestris pv. viticola. The disease can cause serious damage to grape crops, resulting in reduced yield and quality. Black rot is most common in cool, wet climates. The bacteria can survive in the soil for several years, and it can be spread by rain, wind, and insects. The bacteria enter the grape through wounds or natural openings in the plant.",
+        "prevent": [
+            "1.Small, black, sunken spots on the leaves",
+            "2.Brown, sunken spots on the fruit",
+            "3.Cankers on the stems and trunks",
+            "4.Death of the entire plant"
+        ],
+        "extra": [
+        "1.Water your vines deeply and infrequently, as this will help to reduce the humidity around the vines.",
+        "2.Avoid planting grapes in areas where the soil is poorly drained.",
+        "3.Remove any weeds or other plants that may harbor the bacteria.",
+        "4.Inspect your vines regularly for signs of disease and remove any infected leaves or fruit immediately."
+    ]
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "about": "Esca (black measles) is a complex disease that affects grapes. It is caused by a combination of factors, such as fungi,insects,etc",
+        "prevent": [
+            "1.Plant resistant varieties of grapes: There are a number of grape varieties that are resistant to esca.",
+"2.Prune the vines regularly: Pruning the vines regularly will help to remove dead or diseased tissue, which can help to prevent the spread of the disease.",
+"3.Keep the vines healthy: Keeping the vines healthy by fertilizing and watering them properly will help to make them more resistant to infection.",
+"4.Apply fungicides: Fungicides can be applied to the vines to help prevent the spread of the disease.",
+"5.Remove infected plant material: Any infected plant material should be removed from the vineyard and destroyed."
+        ],
+        "extra": [
+            "1.Water your vines deeply and infrequently, as this will help to reduce the humidity around the vines.",
+            "2.Avoid planting grapes in areas where the soil is poorly drained.",
+            "3.Remove any weeds or other plants that may harbor the fungi.",
+            "4.Inspect your vines regularly for signs of disease and remove any infected leaves or fruit immediately."
+        ]
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "about": "Grape leaf blight, also known as Isariopsis leaf spot, is a fungal disease that affects grapes. It is caused by the fungus Pseudocercospora vitis. The disease can cause serious damage to grape crops, resulting in reduced yield and quality.",
+        "prevent": [
+            "1.Small, brown to black spots on the leaves",
+            "2.Yellowing and dropping of leaves",
+            "3.Stunted growth",
+            "4.Reduced yield",
+            "5.Fruit rot"
+        ],
+        "extra": [
+            "1.Water your vines deeply and infrequently, as this will help to reduce the humidity around the vines.",
+            "2.Avoid planting grapes in areas where the soil is poorly drained.",
+            "3.Remove any weeds or other plants that may harbor the fungus.",
+            "4.Inspect your vines regularly for signs of disease and remove any infected leaves or fruit immediately.",            
+            "5.If you do find leaf blight on your vines, contact your local extension office for more information on how to control it."
+        ]
+    },
+    "Grape___healthy": {
+        "about": "Your Crop is healty",
+        "prevent": [],
+        "extra": []
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "about": "Huanglongbing (HLB), also known as citrus greening, is a devastating disease of citrus trees that is caused by a bacterium called Candidatus Liberibacter asiaticus. The disease is spread by psyllids, small insects that feed on the leaves and fruit of citrus trees.",
+        "prevent": [
+            "1.Yellowing and dropping of leaves",
+            "2.Stunted growth",
+            "3.Reduced fruit production",
+            "4.Fruit that is misshapen and discolored",
+            "5.Death of the tree"
+        ],
+        "extra": ["1.Water your trees deeply and infrequently. This will help to reduce the humidity around the trees, which makes it more difficult for psyllids to survive.",
+        "2.Avoid planting citrus trees in areas where the disease is present. If you do live in an area where HLB is present, you should take steps to prevent the spread of the disease, such as using pesticides and inspecting your trees regularly for signs of infection.",
+        "3.Contact your local extension office for more information on how to manage HLB. Your local extension office can provide you with more information on the disease and how to protect your citrus trees."
+        ]
+    },
+    "Peach___Bacterial_spot": {
+        "about": "Bacterial spot is a serious disease of peach and other stone fruit trees. It is caused by the bacterium Xanthomonas campestris pv. pruni. The bacterium can survive in the soil and on plant debris for several years. It is spread by rain, wind, and insects.",
+        "prevent": ["1.Small, dark, water-soaked spots on the leaves",
+        "2.Fruit that is misshapen and discolored",
+        "3.Cankers on the branches and trunk"],
+        "extra": [
+            "1.Plant resistant varieties of peach trees.",
+"2.Prune the trees regularly to remove dead or diseased tissue.",
+"3.Keep the trees healthy by fertilizing and watering them properly.",
+"4.Apply a copper-based fungicide to the trees at regular intervals.",
+"5.Remove any infected plant material from the area and destroy it."
+        ]
+    },
+    "Peach___healthy": {
+        "about": "Your Crop is healty",
+        "prevent": [],
+        "extra": []
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "about": "Bacterial spot is a common and destructive disease of bell peppers. It is caused by the bacterium Xanthomonas campestris pv. vesicatoria. The bacterium can survive in the soil and on plant debris for several years. It is spread by rain, wind, and insects.",
+        "prevent": ["1.Small, water-soaked spots on the leaves",
+        "2.Brown, sunken spots on the fruit",
+        "3.Fruit that is misshapen and discolored",
+        "4.Cankers on the stems and petioles"],
+        "extra": []
+    },
+    "Pepper,_bell___healthy": {
+        "about": "Your Crop is healty",
+        "prevent": [],
+        "extra": []
+    },
+    "Potato___Early_blight": {
+        "about": "Early blight is a fungal disease that affects potatoes, tomatoes, and other nightshades. It is caused by the fungus Phytophthora infestans, which spreads through spores that are carried by the wind or splashing water. Early blight can cause serious damage to potato crops, reducing yields and making the potatoes inedible.The symptoms of early blight typically appear on the leaves of potato plants. The leaves develop small, dark, water-soaked spots that eventually turn brown and fall off. The stems and fruits of the plant may also be affected. Early blight can also cause the potatoes to rot.",
+        "prevent": [
+            "1.Planting resistant varieties of potatoes",
+"2.Rotating crops to avoid planting potatoes in the same area every year",
+"3.Keeping the leaves of potato plants dry",
+"4.Removing any infected leaves or fruits from the plants",
+"5.Applying a fungicide to the plants"
+        ],
+        "extra": [
+            "1.Choose a planting site that receives full sun and good air circulation.",
+"2.Amend the soil with compost or other organic matter before planting.",
+"3.Water the plants deeply and infrequently.",
+"4.Mulch around the plants to help keep the soil moist and cool.",
+"5.Inspect the plants regularly for signs of disease and remove any infected leaves or fruits immediately.",
+"6.Apply a fungicide as a preventive measure, especially if the weather is wet and humid."
+        ]
+    },
+    "Potato___Late_blight": {
+        "about": "Late blight is a devastating fungal disease that affects potatoes and other crops in the Solanaceae family, such as tomatoes. It is caused by the pathogen Phytophthora infestans, and can cause significant yield losses and economic damage. Here are some causes and remedies for late blight in potatoes:",
+        "prevent": [
+            "1.Crop rotation: Avoid planting potatoes or other Solanaceae crops in the same location year after year. This helps to reduce the buildup of the pathogen in the soil.",
+            "2.Good plant hygiene: Practice good sanitation measures, such as removing and destroying infected plant material, and avoiding the use of infected seed potatoes.",
+            "3.Fungicides: Fungicides can be effective in controlling late blight, but it's important to use them correctly and to rotate between different modes of action to prevent the development of resistance.",
+            "4.Resistant varieties: Plant potato varieties that have resistance to late blight. These varieties have been bred to be less susceptible to the disease and can be an effective control measure.",
+            "5.Timely harvest: Harvest potatoes before the late blight infection becomes severe. This can help to reduce the amount of infected plant material in the field, which can reduce the spread of the disease."
+        ],
+        "extra": []
+    },
+    "Potato___healthy": {
+        "about": "Your Crop is healty",
+        "prevent": [],
+        "extra": []
+    },
+    "Raspberry___healthy": {
+        "about": "Your Crop is healty",
+        "prevent": [],
+        "extra": []
+    },
+    "Soybean___healthy": {
+        "about": "Your Crop is healty",
+        "prevent": [],
+        "extra": []
+    },
+    "Squash___Powdery_mildew": {
+        "about": "Powdery mildew is a fungal disease that commonly affects squash plants, including various types of pumpkins, zucchinis, and other members of the Cucurbitaceae family. It is caused by different species of fungi, such as Podosphaera xanthii and Golovinomyces cichoracearum. Here are the causes and remedies for powdery mildew in squash:",
+        "prevent": [
+            "1.Cultural practices:Plant in sunny locations: Choose a sunny site for squash plants that receives at least 6 to 8 hours of direct sunlight per day. This helps to reduce humidity and promote better air circulation, which can discourage the development of powdery mildew.",
+            "2.Fungicides:Fungicidal sprays: Apply fungicides specifically labeled for powdery mildew control on squash plants. Look for fungicides containing active ingredients such as sulfur, potassium bicarbonate, or neem oil. Follow the instructions on the label carefully."
+        ],
+        "extra": [
+            "1.Environmental conditions: Powdery mildew thrives in warm and humid environments, with temperatures ranging from 60 to 80 degrees Fahrenheit (15 to 27 degrees Celsius). It often develops during periods of high humidity and poor air circulation.",
+"2.Susceptible varieties: Certain squash varieties are more prone to powdery mildew than others. Some varieties have genetic resistance, while others may be more susceptible to the disease."
+        ]
+    },
+    "Strawberry___Leaf_scorch": {
+        "about": "Strawberry leaf scorch is a fungal disease that affects strawberry plants. It is caused by the fungus Diplocarpon earliana. The disease is most common in cool, wet climates. The fungus can survive in the soil and on plant debris for several years. It is spread by rain, wind, and insects.       ",
+        "prevent": [         
+            "1.Adequate watering: Proper watering is crucial to prevent leaf scorch. Ensure that strawberry plants receive sufficient water, especially during dry periods. Avoid overwatering as it can lead to root rot, which may contribute to leaf scorch symptoms.",
+"2.Mulching: Apply a layer of organic mulch, such as straw or wood chips, around strawberry plants. Mulching helps retain soil moisture and regulate soil temperature, reducing environmental stress on the plants.",
+"3.Disease management: If the symptoms resemble those of a fungal disease, implement appropriate disease management practices. This may include removing and destroying infected plant material, applying fungicides according to label instructions, and promoting good air circulation around plants.",
+"4.Pest control: Identify and address any pest infestations in the strawberry patch. Use integrated pest management (IPM) practices, such as introducing beneficial insects or using organic insecticides, to control pests effectively and minimize leaf damage."
+        ],
+        "extra": [
+            "1.Small, purple to brown spots on the leaves",
+            "2.Yellowing and dropping of leaves",
+            "3.Stunted growth",
+            "4.Reduced yield",
+            "5.Fruit that is misshapen and discolored"
+        ]
+    },
+    "Strawberry___healthy": {
+        "about": "Your Crop is healty",
+        "prevent": [],
+        "extra": []
+    },
+    "Tomato___Bacterial_spot": {
+        "about": "Bacterial spot is a common and destructive disease that affects tomatoes and other Solanaceous plants. It is caused by the bacteria Xanthomonas campestris pv. vesicatoria. Bacterial spot typically appears as dark, water-soaked lesions on leaves, stems, and fruit. Here are some causes and remedies for bacterial spot in tomatoes:        ",
+        "prevent": [
+            "1.Disease-resistant varieties: Plant tomato varieties that are resistant or tolerant to bacterial spot. Resistant varieties have been bred to have genetic resistance to the disease, reducing the severity of infection.",
+"2.Crop rotation: Avoid planting tomatoes and other Solanaceous crops in the same location year after year. Rotate crops with non-host plants to reduce the buildup of bacterial populations in the soil.",
+"3.Copper-based sprays: Copper-based fungicides or bactericides can help manage bacterial spot. Apply according to the manufacturer's instructions, starting when symptoms are first observed or as a preventive measure in high-risk environments.",
+"4.Strengthen plant health: Maintain overall plant health through proper nutrition and watering practices. Avoid over-fertilizing with nitrogen, as excessive nitrogen can promote lush growth that is more susceptible to bacterial spot."
+        ],
+        "extra": [
+            "1.Bacterial infection: The disease is primarily caused by the bacterium Xanthomonas campestris pv. vesicatoria. It can be introduced to tomato plants through infected seeds, contaminated tools, or by wind, rain, or insects.",
+"2.Warm and humid conditions: Bacterial spot thrives in warm and humid environments, typically with temperatures ranging from 75 to 85 degrees Fahrenheit (24 to 29 degrees Celsius) and high humidity."
+        ]
+    },
+    "Tomato___Early_blight": {
+        "about": "Early blight is a fungal disease that affects tomatoes, potatoes, and other plants in the nightshade family. It is caused by the fungus Alternaria solani, which can overwinter in infected plant debris or soil. Early blight is most common in wet, humid climates, but it can also occur in dry climates if there is frequent splashing of water on the plants.        ",
+        "prevent": [
+            "1.Plant resistant varieties of tomatoes.",
+"2.Water the soil around the plants, not the leaves.",
+"3.Space the plants at least 3 feet apart to improve air circulation.",
+"4.Remove any infected plant debris from the garden at the end of the season.",
+"5.Mulch around the plants to help keep the soil moist and cool.",
+"6.Apply a fungicide to the plants as a preventative measure, especially if there is a history of early blight in your area."
+        ],
+        "extra": [
+            "1.Choose a planting site that receives full sun and good air circulation.",
+"2.Amend the soil with compost or other organic matter before planting.",
+"3.Water the plants deeply and infrequently.",
+"4.Mulch around the plants to help keep the soil moist and cool.",
+"5.Inspect the plants regularly for signs of disease and remove any infected leaves or fruits immediately.",
+"6.Apply a fungicide as a preventive measure, especially if the weather is wet and humid."
+        ]
+    },
+    "Tomato___Late_blight": {
+        "about": "Late blight is another common and destructive disease that affects tomato plants. It is caused by the oomycete pathogen Phytophthora infestans, which can cause severe damage to tomato foliage and fruits. Here are some details about the causes and remedies for late blight:        ",
+        "prevent": [
+            "1.Plant Resistant Varieties: Choose tomato varieties that are resistant or tolerant to late blight, as they have been bred to withstand the disease and have a better chance of surviving infection.",
+"2.Crop Rotation: Practice crop rotation by avoiding planting tomatoes or related plants in the same location for at least two to three years. This helps break the disease cycle and reduce the chances of infection.",
+"3.Proper Spacing: Provide adequate spacing between tomato plants to promote air circulation and reduce humidity levels, which can inhibit the growth and spread of the pathogen.",
+"4.Monitor and Remove Infected Plants: Regularly inspect tomato plants for signs of late blight, such as dark, water-soaked lesions on leaves and stems. If infected, remove and destroy the affected plants immediately to prevent the spread of the disease.",
+"5.Fungicides: Fungicides labeled for late blight can be used as a preventive measure or at the first signs of disease. Consult with local agricultural authorities or experts for recommendations on effective fungicides in your area.",
+"6.Timely Watering: Water the plants at the base and avoid wetting the foliage. Watering early in the day gives the foliage a chance to dry before nightfall, reducing the chances of infection.",
+"7.Sanitation: Clean up and remove plant debris, including infected leaves and fruits, from the garden. Proper disposal of infected plant material helps prevent the overwintering of the pathogen."
+        ],
+        "extra": []
+    },
+    "Tomato___Leaf_Mold": {
+        "about": "The symptoms of tomato leaf mold typically appear on the lower leaves of the plant first. Small, brown spots with irregular edges develop on the leaves. As the disease progresses, the spots enlarge and merge, causing the leaves to turn yellow, wither, and die. The stems and fruit of the plant can also be infected, but this is less common.There are a number of things you can do to prevent tomato leaf mold, including:        ",
+        "prevent": [
+            "1.Plant resistant varieties of tomatoes.",
+"2.Water the soil around the plants, not the leaves.",
+"3.Space the plants at least 3 feet apart to improve air circulation.",
+"4.Remove any infected plant debris from the garden at the end of the season.",
+"5.Mulch around the plants to help keep the soil moist and cool.",
+"6.Apply a fungicide to the plants as a preventative measure, especially if there is a history of tomato leaf mold in your area."
+        ],
+        "extra": [
+            "1.Keep your garden clean and free of weeds. Weeds can harbor the fungus that causes tomato leaf mold.",
+"2.Do not work in the garden when it is wet. This can help to prevent the spread of the disease.",
+"3.Rotate your crops. This will help to reduce the amount of fungus in the soil.",
+"4.Fertilize your plants regularly. This will help to keep them healthy and resistant to disease."
+        ]
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "about": "Septoria leaf spot is a common fungal disease that affects tomato plants. It is caused by the pathogen Septoria lycopersici and can lead to defoliation and reduced fruit production if left unmanaged. Here's some information about the causes and remedies for Septoria leaf spot in tomatoes:        ",
+        "prevent": [
+            "1.Crop Rotation: Practice crop rotation by avoiding planting tomatoes or related plants in the same location for at least two to three years. This helps reduce the buildup of the pathogen in the soil.",
+"2.Proper Spacing: Provide adequate spacing between tomato plants to promote airflow and reduce humidity levels around the foliage. Good ventilation helps prevent the development and spread of the disease.",
+"3.Watering Techniques: Water the plants at the base and avoid wetting the foliage. Watering early in the day allows the foliage to dry quickly, reducing the chances of fungal spore germination.",
+"4.Mulching: Apply a layer of organic mulch around the base of tomato plants to prevent soil splashing onto the foliage, which can carry fungal spores. However, avoid excessive mulching, as it can trap moisture and create a humid environment.",
+"5.Regular Inspections: Monitor tomato plants regularly for signs of Septoria leaf spot, such as small, circular lesions with dark centers and yellow halos on the leaves. Promptly remove and destroy any infected leaves to prevent further spread."
+        ],
+        "extra": []
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "about": "The two-spotted spider mite is a small, eight-legged arachnid that is a major pest of many plants, including tomatoes. They are about 1/50th of an inch long and have a light yellow or green body with two dark spots on the back. Spider mites feed on the sap of plants, which can cause the leaves to turn yellow, brown, or spotted. In severe infestations, the leaves may curl up and fall off. Spider mites can also transmit viral diseases to plants.Spider mites are most active in warm, dry weather. They thrive in greenhouses and other enclosed spaces, but they can also be found outdoors in hot, dry summers. Spider mites can be spread by wind, water, and on people and animals.There are a number of ways to control spider mites. One way is to remove any infected leaves or fruit from the plant. You can also wash the leaves with a strong stream of water. If the infestation is severe, you may need to use an insecticidal soap or miticide.        ",
+        "prevent": [
+            "1.Water your plants regularly, especially during hot, dry weather.",
+"2.Avoid overhead watering, as this can spread the mites.",
+"3.Keep your plants healthy by fertilizing them regularly and providing them with good light and air circulation.",
+"4.Inspect your plants regularly for signs of pests, and treat any infestations promptly.",
+"5.If you have a greenhouse, keep the humidity level low to discourage spider mites."
+        ],
+        "extra": []
+    },
+    "Tomato___Target_Spot": {
+        "about": "Target spot, also known as Corynespora leaf spot, is a fungal disease that commonly affects tomato plants. It is caused by the pathogen Corynespora cassiicola. Target spot can cause significant damage to tomato foliage, leading to reduced plant vigor and fruit production. Here's some information about the causes and remedies for target spot in tomatoes:",
+        "prevent": [
+            ",1.Crop Rotation: Practice crop rotation by avoiding planting tomatoes or related plants in the same location for at least two to three years. This helps reduce the buildup of the pathogen in the soil.",
+",2.Proper Spacing: Provide adequate spacing between tomato plants to promote airflow and reduce humidity levels around the foliage. Good ventilation helps prevent the development and spread of the disease.",
+",3.Watering Techniques: Water the plants at the base and avoid wetting the foliage. Watering early in the day allows the foliage to dry quickly, reducing the chances of fungal spore germination.",
+",4.Mulching: Apply a layer of organic mulch around the base of tomato plants to prevent soil splashing onto the foliage, which can carry fungal spores. However, avoid excessive mulching, as it can trap moisture and create a humid environment.",
+",5.Regular Inspections: Monitor tomato plants regularly for signs of target spot, such as circular lesions with concentric rings and a target-like appearance on the leaves. Promptly remove and destroy any infected leaves to prevent further spread."
+        ],
+        "extra": []
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "about": "Tomato yellow leaf curl virus (TYLCV) is a plant virus that infects tomatoes and other plants in the nightshade family. It is a member of the Geminiviridae family and is transmitted by whiteflies. The virus causes a number of symptoms in tomatoes, including yellowing of the leaves, leaf curling, and stunting. In severe cases, the virus can kill the plant.        ",
+        "prevent": [
+            "1.Plant resistant varieties of tomatoes.",
+"2.Use row covers to protect your plants from whiteflies.",
+"3.Remove any infected plants from your garden.",
+"4.Rotate your crops.",
+"5.Practice good sanitation in your garden."
+        ],
+        "extra": []
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "about": "Tomato mosaic virus (ToMV) is a viral disease that affects tomato plants. It is one of the most common and widespread viruses that infect tomatoes. The virus can cause significant damage to the plant, leading to reduced yield and quality of fruits. Here's some information about the causes and management of Tomato Mosaic Virus:        ",
+        "prevent": [
+            "1.Use Virus-Free Seed: Start with certified virus-free tomato seeds or transplants from reputable sources. This can help reduce the risk of introducing the virus into your garden.",
+"2.Sanitation: Practice good sanitation by removing and destroying infected plants, including weeds, debris, and volunteer tomato plants. This helps prevent the buildup and spread of the virus.",
+"3.Minimize Mechanical Transmission: Avoid handling tomato plants when they are wet, as it can increase the chances of virus transmission. Clean and sanitize tools, gloves, and other equipment regularly to prevent virus spread.",
+"4.Control Insect Vectors: Manage popupotatlations of insect pests, particularly aphids, which can transmit the virus. Use appropriate insecticides or employ natural methods to control aphids and other potential vectors.",
+"5.Resistant Varieties: Consider planting tomato varieties that have resistance or tolerance to Tomato Mosaic Virus. Resistant varieties can help reduce the severity of the disease if an infection occurs."
+        ],
+        "extra": []
+    },
+    "Tomato___healthy": {
+        "about": "Your Crop is healty",
+        "prevent": [],
+        "extra": []
+    }
+}
